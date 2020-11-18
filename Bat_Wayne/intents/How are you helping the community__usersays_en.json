@@ -1,0 +1,38 @@
+[
+  {
+    "id": "46f7b6d0-25fc-4cc3-a194-c33429dded28",
+    "data": [
+      {
+        "text": "How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "helping",
+        "meta": "@Criticism",
+        "alias": "criticism",
+        "userDefined": false
+      },
+      {
+        "text": " the community?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70fe1621-8796-41d6-86ed-d08fcd57af7b",
+    "data": [
+      {
+        "text": "Would you be interested in donating to charity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

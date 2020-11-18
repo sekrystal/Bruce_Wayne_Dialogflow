@@ -1,0 +1,61 @@
+[
+  {
+    "id": "7f157938-018d-428d-9429-2dba0c994333",
+    "data": [
+      {
+        "text": "I think the police should be defunded, and ",
+        "userDefined": false
+      },
+      {
+        "text": "batman",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eafb8c6b-441f-4d0b-99d8-719e65bd40a5",
+    "data": [
+      {
+        "text": "I think Batman\u0027s money would be better invested in restorative ",
+        "userDefined": false
+      },
+      {
+        "text": "justice",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " initiatives",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0089ef-eb71-403a-a258-c35a070b1164",
+    "data": [
+      {
+        "text": "Batman\u0027s equipment looks expensive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

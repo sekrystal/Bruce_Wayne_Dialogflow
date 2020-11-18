@@ -1,0 +1,41 @@
+{
+  "id": "1a3c92a7-7475-4686-bcdc-8c6afa5d06bf",
+  "parentId": "f37b6538-a625-4b96-b10f-d9c37dfde31d",
+  "rootParentId": "f37b6538-a625-4b96-b10f-d9c37dfde31d",
+  "name": "Batman Good - custom",
+  "auto": true,
+  "contexts": [
+    "agreement",
+    "BatmanGood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BatmanGood.BatmanGood-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I bet Batman wishes he could meet you too ;-)",
+            "I\u0027ll see if I can arrange a meeting... I have a friend or two in the Bat Cave (off the record of course)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

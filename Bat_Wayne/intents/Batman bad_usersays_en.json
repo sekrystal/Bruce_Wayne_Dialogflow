@@ -1,0 +1,41 @@
+[
+  {
+    "id": "5206a480-71e0-484d-9e85-274c5e28147d",
+    "data": [
+      {
+        "text": "Batman hurts people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e426ef17-59aa-43f5-a582-9029604f7848",
+    "data": [
+      {
+        "text": "I don\u0027t like Batman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3dbe0c59-8a2b-4477-a936-03e2d194c8d0",
+    "data": [
+      {
+        "text": "I think Batman is bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

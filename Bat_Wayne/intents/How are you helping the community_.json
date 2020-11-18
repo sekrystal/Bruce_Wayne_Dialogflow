@@ -1,0 +1,51 @@
+{
+  "id": "6d35039e-cbcb-4127-b962-f6418800dd0d",
+  "name": "How are you helping the community?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6eb06681-37b6-4f42-b1a0-10f6e6b5f90e",
+          "name": "criticism",
+          "required": false,
+          "dataType": "@Criticism",
+          "value": "$criticism",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I pay millions in taxes, and have my own foundation. What did you do to help Gotham today?",
+            "You wouldn\u0027t understand how much I help this city."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

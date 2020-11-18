@@ -1,0 +1,44 @@
+[
+  {
+    "value": "bad",
+    "synonyms": [
+      "bad",
+      "dangerous",
+      "terrible",
+      "evil"
+    ]
+  },
+  {
+    "value": "good",
+    "synonyms": [
+      "good",
+      "helpful",
+      "safe"
+    ]
+  },
+  {
+    "value": "money",
+    "synonyms": [
+      "money",
+      "rich",
+      "wealthy"
+    ]
+  },
+  {
+    "value": "villain",
+    "synonyms": [
+      "villain",
+      "bad guy",
+      "evildoer",
+      "criminal"
+    ]
+  },
+  {
+    "value": "hero",
+    "synonyms": [
+      "hero",
+      "good guy",
+      "crime fighter"
+    ]
+  }
+]

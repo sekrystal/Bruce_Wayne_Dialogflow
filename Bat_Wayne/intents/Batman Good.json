@@ -1,0 +1,49 @@
+{
+  "id": "f37b6538-a625-4b96-b10f-d9c37dfde31d",
+  "name": "Batman Good",
+  "auto": true,
+  "contexts": [
+    "praise"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "agreement",
+          "lifespan": 5
+        },
+        {
+          "name": "BatmanGood-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Glad we\u0027re on the same page, but why are you wasting my time?",
+            "Yeah, he\u0027s great, especially if you hate crime.",
+            "...hot take",
+            "Good for you. I do too."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

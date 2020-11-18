@@ -1,0 +1,48 @@
+{
+  "id": "2dcbc1e0-bfa2-4e20-802c-002a88c7391a",
+  "name": "Batman bad",
+  "auto": true,
+  "contexts": [
+    "criticism"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "defensive",
+          "lifespan": 5
+        },
+        {
+          "name": "Batmanbad-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you don\u0027t like Batman so much you can leave Gotham",
+            "Oh, so you like crime? You\u0027re deplorable.",
+            "Ridiculous. Batman fights crime, therefore he\u0027s good. End of story."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

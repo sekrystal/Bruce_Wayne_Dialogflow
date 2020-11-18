@@ -1,0 +1,39 @@
+{
+  "id": "b635b7db-e18e-4610-bd31-6790e89c0702",
+  "name": "Thoughts?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I think Batman is a necessary evil, vigilantism is the only solution given the level of corruption in Gotham",
+            "Vigilantes like Batman are what make Gotham great - the police haven\u0027t done anything about super villains, who would? Who could!?",
+            "Good guy - cool sense of style.",
+            "Batman is great, cleaning up the streets one criminal at a time. Guy should get a key to the city if you ask me.",
+            "Vigilante, hero, whatever you want to call him he\u0027s killing it. Figuratively, of course."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

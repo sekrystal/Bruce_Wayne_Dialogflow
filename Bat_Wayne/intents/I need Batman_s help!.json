@@ -1,0 +1,62 @@
+{
+  "id": "db662be1-8ded-4142-a27b-841adacbf056",
+  "name": "I need Batman\u0027s help!",
+  "auto": true,
+  "contexts": [
+    "aid"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "sarcasm",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cf9fe3b1-f24e-4a65-8a29-1f7840b937bc",
+          "name": "criticism",
+          "required": false,
+          "dataType": "@Criticism",
+          "value": "$criticism",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027ll find my Batphone, or whatever he uses",
+            "Quick! Shine the bat-signal or whatever he uses...",
+            "I think Batman is taking a break at the moment, chill out."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

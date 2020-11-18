@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0cfef2b5-948d-45ad-8539-3db211211007",
+    "data": [
+      {
+        "text": "I need Batman\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "help",
+        "meta": "@Criticism",
+        "alias": "criticism",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

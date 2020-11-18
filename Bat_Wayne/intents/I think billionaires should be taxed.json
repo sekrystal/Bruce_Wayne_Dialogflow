@@ -1,0 +1,64 @@
+{
+  "id": "9daf6fee-70aa-401d-aa96-8d8bda3f4f45",
+  "name": "I think billionaires should be taxed",
+  "auto": true,
+  "contexts": [
+    "taxes",
+    "money"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "defensive",
+          "lifespan": 5
+        },
+        {
+          "name": "angry",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9c9d575d-93bd-4ca8-a078-2567cb393b6a",
+          "name": "criticism",
+          "required": false,
+          "dataType": "@Criticism",
+          "value": "$criticism",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My parents worked hard for this money, it\u0027s the only thing I have to remember them by, leave it alone.",
+            "Between you and me, I own all the politicians, no way tax laws get changed in Gotham.",
+            "Go back to Russia, commie."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

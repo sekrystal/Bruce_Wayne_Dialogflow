@@ -1,0 +1,9 @@
+{
+  "id": "7c3c45a4-caaa-4d24-96be-113e9f393a8e",
+  "name": "Wealth",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0b4df9bb-e943-4e73-ab53-feca6f666186",
+    "data": [
+      {
+        "text": "What are your thoughts on Batman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e00416f4-7b53-4c8a-a022-05c86c55a94f",
+    "data": [
+      {
+        "text": "Is Batman good or Bad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15d3ad93-bb0f-45a9-81e2-b09771ecfa2a",
+    "data": [
+      {
+        "text": "Do you like Batman?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da71a17-74e3-490f-a2a9-84cb63af10aa",
+    "data": [
+      {
+        "text": "What do you think about Batman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

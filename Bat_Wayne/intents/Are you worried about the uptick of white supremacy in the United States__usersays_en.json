@@ -1,0 +1,84 @@
+[
+  {
+    "id": "c16029ed-0527-464b-b679-c8afe5450e7b",
+    "data": [
+      {
+        "text": "Are you worried about the uptick of ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " supremacy in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "350c46db-9984-4d84-bcb0-d6ec47167f04",
+    "data": [
+      {
+        "text": "Are you a Conservative?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "269817fb-8139-49d6-bc3e-3d81154665b8",
+    "data": [
+      {
+        "text": "Did you vote Republican in the election?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45e09afa-3bd4-4249-ad90-26b3ec6954bb",
+    "data": [
+      {
+        "text": "Did you vote for ",
+        "userDefined": false
+      },
+      {
+        "text": "Donald Trump",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " in the election?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "de0cb183-16e3-4fae-af8f-5b96784b12cd",
+    "data": [
+      {
+        "text": "Batman is good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8aeee4b-06a4-497f-bfc1-db7bcdba84fd",
+    "data": [
+      {
+        "text": "I\u0027m a Batman fan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0767cdf8-e570-46f3-ba66-2106fc0f979b",
+    "data": [
+      {
+        "text": "I like Batman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

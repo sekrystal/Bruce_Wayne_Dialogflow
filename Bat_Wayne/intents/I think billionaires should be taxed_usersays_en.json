@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e01ea2ab-0475-4c52-802d-c83a1479e7c4",
+    "data": [
+      {
+        "text": "I think billionaires should be taxed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aed17353-7047-47a8-9723-812b3f5e60b9",
+    "data": [
+      {
+        "text": "Fuck ",
+        "userDefined": false
+      },
+      {
+        "text": "rich",
+        "meta": "@Criticism",
+        "alias": "criticism",
+        "userDefined": false
+      },
+      {
+        "text": " people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

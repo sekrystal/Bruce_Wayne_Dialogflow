@@ -1,0 +1,57 @@
+{
+  "id": "58080bc3-f710-46e3-838c-07ed916c7944",
+  "parentId": "2dcbc1e0-bfa2-4e20-802c-002a88c7391a",
+  "rootParentId": "2dcbc1e0-bfa2-4e20-802c-002a88c7391a",
+  "name": "Bad - deeper",
+  "auto": true,
+  "contexts": [
+    "defensive",
+    "Batmanbad-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Batmanbad.Batmanbad-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f612128f-c38d-4318-8e46-4886e4253801",
+          "name": "criticism",
+          "required": false,
+          "dataType": "@Criticism",
+          "value": "$criticism",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m no sociologist, but from where I stand it\u0027s good for society to not have the Joker or Two Face running around causing trouble",
+            "Typical liberal propaganda",
+            "This sounds like you\u0027re supporting the bad guys, are you a bad guy??"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

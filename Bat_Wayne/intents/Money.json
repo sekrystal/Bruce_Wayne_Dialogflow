@@ -1,0 +1,59 @@
+{
+  "id": "48e9f426-036c-420d-88bd-550546090cb6",
+  "name": "Money",
+  "auto": true,
+  "contexts": [
+    "criticism"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "defensive",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "96d54444-f9cb-4cfb-adaa-34b58ac12a40",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Batman should be able to spend his money how he sees fit, he does a good job fighting crime!",
+            "Tell Batman that to his face, I\u0027m sure he\u0027d have his own thoughts",
+            "Try and tax Batman and let me know how it goes"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
